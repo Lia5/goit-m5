@@ -61,7 +61,7 @@ li:first-child {
 
 
 li:last-child {
-  background: #4aa6d8;
+  background: linear-gradient(to top, #2f7cc5, #4faedb);
 }
 
 
